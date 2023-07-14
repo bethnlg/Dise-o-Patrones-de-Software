@@ -1,0 +1,144 @@
+/* NAV*/
+
+
+.nav-item a{
+    color: white;
+    text-decoration: none;
+}
+
+.bg-helpingHand{
+    background-color: #0597A6;
+}
+
+.img-navbar{
+    border-radius: 5px;
+    height: 40px;
+}
+
+.features h4{
+    color: #0597A6;
+    
+}
+
+
+
+
+/* NAV*/
+
+/* CARRUSEL  color ffde59*/
+.carousel-caption h1 {
+    color: #e5da61;
+}
+
+.carousel-caption p {
+    color: white; 
+    font-size: 30px;
+}
+/* CARRUSEL*/
+
+/* FUNCIONALIDAD*/
+
+
+
+/* FUNCIONALIDAD*/
+
+/* PLANES*/
+.planes{
+    background-color: #0597A6;
+}
+
+.plan{
+    color: #00DDE3;
+}
+
+ul{
+    color: #000000;
+}
+
+.header-section{
+    color: #ffffff;
+}
+
+.tittle-plan{
+    color: #0597A6;
+}
+
+.justify{
+    color: #ffffff;
+}
+
+.color-descuento{
+    color: #FF6767;
+    font-size: small;
+}
+
+/* PLANES*/
+
+
+/* Descarga*/
+.color-HH{
+    color: #0597A6;
+}
+
+.color-HH1{
+    color: #63CAA7;
+}
+
+/* Descarga*/
+
+/* Conoce más*/
+.ConoceMas{
+    background-color: #0597A6;
+    color: white;
+}
+
+.color-HH-alternative{
+    color: #39F563;
+}
+
+.title-ConoceMas{
+    padding: 25px;
+}
+/* Conoce más*/
+
+/*Contactenos*/
+
+textarea{
+    border-color: #000000;
+    border-radius: 15px;
+}
+
+/*pagos*/
+.Pagos{
+    background-color: #0597A6;
+    color: #ffffff;
+}
+/*Contactenos*/
+
+/*Footer*/
+
+footer{
+    background-color: #0597A6;
+}
+
+.ul-footer{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.footer-right{
+    color: white;
+}
+
+.socialMedia a{
+    color: white;
+    text-decoration: none; 
+}
+
+ion-icon {
+    font-size: 35px;
+    padding: 10px;
+}
+
+/*Footer*/
